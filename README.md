@@ -39,17 +39,20 @@ You need a web browser to run this application and an active internet connection
    ```bash
    cd weather-app
 
-## Usage
-1. Open index.html in your web browser.
-2. Enter the name of a city in the search box and click the search button.
-3. The current weather details for the entered city will be displayed.
-
 ## API Key
 The application uses the OpenWeatherMap API to fetch weather data. Replace the apiKey variable in sc.js with your own OpenWeatherMap API key:
 ```javascript
 const apiKey = "your-api-key-here"
 ```
+## Step to get API key
+1. Visit link and Sign in : https://openweathermap.org/
+2. Go to API key.
+3. Now replace apikey in sc.js.
 
+## Usage
+1. Open index.html in your web browser.
+2. Enter the name of a city in the search box and click the search button.
+3. The current weather details for the entered city will be displayed.
 
 ## Screenshots
 
